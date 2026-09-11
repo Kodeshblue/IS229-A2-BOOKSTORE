@@ -1,0 +1,40 @@
+ body {
+        font-family:Arial, Helvetica, sans-serif;
+        background-color: #F5EDE3 ;
+    }
+
+    h1 {color: #3E2A1E;
+    text-align: center;
+    margin-top: 20px; 
+}
+
+nav {
+    text-align: center;
+    background-color: #C9A17A;
+    padding: 10px 0;
+}
+
+nav a {
+    color: #442D1C;
+    text-decoration: dotted;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #fff;
+}
+
+main {
+    max-width: 800px;
+    margin: 30px auto;
+    padding 0 20px;
+}
+
+footer {
+    text-align: center;
+    back-ground color: #C8A684;
+    color: #BFA38A;
+    padding: 10px 0;
+    margin-top: 40px;
+}
